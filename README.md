@@ -1,3 +1,9 @@
+![vending machine](https://github.com/user-attachments/assets/fcc4ab6a-9d38-44ca-be4b-82112c3e8e66)       
+
+
+
+
+
 Vending Machine Project
 
 
@@ -42,4 +48,4 @@ It includes features for vendor access to restock products after unlocking the m
             . Enable internet connectivity for remote monitoring and updates.         
             . Introduce a mobile app for transactions and vendor management.         
       
-![vending machine](https://github.com/user-attachments/assets/fcc4ab6a-9d38-44ca-be4b-82112c3e8e66)
+
